@@ -21,7 +21,7 @@ Utilisation
 
 - Fichier texte avec l’extension : .php
 - Script PHP : langage PHP et/ou langage HTML
-- Balise `<?php` `?>` :
+- Balises `<?php` `?>` :
 ```php
 <?php
     instruction_1
