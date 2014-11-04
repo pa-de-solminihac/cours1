@@ -29,3 +29,17 @@ Utilisation
     …
 ?>
 ```
+
+Commentaires
+===
+- Non interprétés
+- Commentaires de type C/C++ et shell Unix 
+- Exemples :
+```php
+// Commentaire PHP (une seule ligne).
+# Autre commentaire PHP (une seule ligne).
+/* Autre commentaire PHP (une ou plusieurs lignes). */
+/*
+    Commentaire PHP
+    (sur plusieurs lignes).
+*/
