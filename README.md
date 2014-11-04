@@ -15,3 +15,17 @@ Principales caractéristiques :
 - Possibilité d’être couplé à une **base de données**
 - Langage **objet faiblement typé**
 - _Open source_
+
+Utilisation
+===
+
+- Fichier texte avec l’extension : .php
+- Script PHP : langage PHP et/ou langage HTML
+- Balise `<?php` `?>` :
+```php
+<?php
+    instruction_1
+    instruction_2
+    …
+?>
+```
