@@ -43,3 +43,10 @@ Commentaires
     Commentaire PHP
     (sur plusieurs lignes).
 */
+```
+
+Définition de type
+===
+- **Pas de déclaration explicite** du type d'une variable
+- Le type d'une variable est déterminé par le contexte d'utilisation
+- Conversion automatique
