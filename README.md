@@ -1,7 +1,3 @@
-TOC
-* auto-gen TOC:
-{:toc}
-
 PHP/PHP5
 ===
 
