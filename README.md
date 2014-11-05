@@ -1,12 +1,12 @@
 PHP/PHP5
 ===
 
-Historique:
+Historique
 ---
 - 1994-1995 : PHP par Rasmus Lerdorf
 - 2004 : PHP version 5
 
-Principales caractéristiques :
+Principales caractéristiques
 ---
 - Langage de programmation de **script** interprété 
 - Conçu pour le développement d'**applications Web**
